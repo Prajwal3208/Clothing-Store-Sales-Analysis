@@ -182,6 +182,7 @@ The dataset contains transactional-level data with fields such as:
   * Dashboard Design
 
 ---
+<img width="1560" height="626" alt="Screenshot 2026-04-07 130044" src="https://github.com/user-attachments/assets/8f6afe7b-8362-47ee-ab53-5b6d9ebd9e0c" />
 
 ## 9. 📈 Final Outcome
 
