@@ -1,5 +1,3 @@
-Great work — this is exactly how real data analysts build portfolio projects 👍
-Now let’s convert your dashboard into a **professional, real-world project documentation** you can use for LinkedIn, resume, or interviews.
 
 ---
 
